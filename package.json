@@ -1,7 +1,7 @@
 {
   "name": "new-my-pro",
   "version": "1.0.0",
-  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
+  "description": "myproject",
   "private": true,
   "license": "MIT"
 }
